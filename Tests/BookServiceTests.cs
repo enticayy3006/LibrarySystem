@@ -3,3 +3,4 @@
 // Define Book entity and add migration for book table
 // Implement book update service logic with validation
 // Connect UI with book update service logic
+// Add unit tests for book update service
